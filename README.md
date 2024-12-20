@@ -37,7 +37,7 @@ The Maven Market Dashboard visualizes key business metrics, such as:
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](images/Main Dashboard Image'.png)
+![Main Dashboard](images/Main_Dashboard.png)
 
 ## Requirements
 - Power BI Desktop (latest version)
