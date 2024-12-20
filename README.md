@@ -8,7 +8,7 @@ Welcome to the Maven Market Dashboard GitHub repository! This project is a compr
 |-- Maven_Market_Report_COMPLETE.pbix  # Power BI Report File
 |-- README.md                          # Project documentation
 |-- assets/                            # Supporting images and files
-    |-- Main_Dashboard_Image.png       # Dashboard snapshot
+    |-- Main Dashboard Image'.png       # Dashboard snapshot
 ```
 
 ## Project Overview
@@ -37,7 +37,7 @@ The Maven Market Dashboard visualizes key business metrics, such as:
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](assets/Main_Dashboard_Image.png)
+![Main Dashboard](assets/Main Dashboard Image'.png)
 
 ## Requirements
 - Power BI Desktop (latest version)
